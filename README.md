@@ -1,7 +1,5 @@
 # Model 
-# Ocean Model 
-#   ROMS
-#   NEMO 
+- Ocean Model : ROMS, NEMO 
+- Atmospheric Model : WRF
+- 
 
-# Atmoshperic Model
-#   WRF 
